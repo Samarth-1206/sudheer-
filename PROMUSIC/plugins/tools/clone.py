@@ -339,9 +339,9 @@ async def list_cloned_bots(client, message, _):
             return
 
         total_clones = len(cloned_bots)
-        text = f"**Tᴏᴛᴀʟ Cʟᴏɴᴇᴅ Bᴏᴛs: `{total_clones}`**\n\n"         
+        text = f"**Tᴏᴛᴀʟ Cʟᴏɴᴇᴅ Bᴏᴛs: {total_clones}**\n\n"         
 
         await message.reply_text(text)
     except Exception as e:
         logging.exception(e)
-        await message.reply_text("An error occurred while listing cloned bots.")<
+        await message.reply_text("An error occurred while listing cloned bots.")
