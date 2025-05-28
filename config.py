@@ -68,10 +68,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/RIYA_NETWORK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/RIYA_CHAT_SUPPORT")
-SOURCE = getenv("SOURCE", "https://t.me/Mahi_xmusic_robot")
-CHAT = getenv("CHAT", "https://t.me/NEXTHACKERS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/GHOULS_NETWORK")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/GHOULS_SUPPORT")
+SOURCE = getenv("SOURCE", "https://t.me/BILI_MUSIC_BOT")
+CHAT = getenv("CHAT", "https://t.me/I_KAISEB")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -138,10 +138,10 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/26nzoq.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/yn7wje.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/j07ozn.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/f2s4ws.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/z0gh23.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/kifsir.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2y5o3g.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2y5o3g.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
