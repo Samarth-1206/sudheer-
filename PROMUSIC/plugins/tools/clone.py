@@ -25,7 +25,7 @@ from pyrogram.errors import PeerIdInvalid
 from datetime import datetime
 CLONES = set()
 
-C_BOT_DESC = "Wᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs? Cʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nVɪsɪᴛ: @Mahi_xmusic_robot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - Uᴘᴅᴀᴛᴇ: @RIYA_NETWORK\n - Sᴜᴘᴘᴏʀᴛ: @RIYA_CHAT_SUPPORT"
+C_BOT_DESC = "Wᴀɴᴛ ᴀ ʙᴏᴛ ʟɪᴋᴇ ᴛʜɪs? Cʟᴏɴᴇ ɪᴛ ɴᴏᴡ! ✅\n\nVɪsɪᴛ: @ZOYU_music_robot ᴛᴏ ɢᴇᴛ sᴛᴀʀᴛᴇᴅ!\n\n - Uᴘᴅᴀᴛᴇ: @GHOULS_NETWORK\n - Sᴜᴘᴘᴏʀᴛ: @GHOULS_SUPPORT"
 
 C_BOT_COMMANDS = [
                 {"command": "/start", "description": "sᴛᴀʀᴛs ᴛʜᴇ ᴍᴜsɪᴄ ʙᴏᴛ"},
