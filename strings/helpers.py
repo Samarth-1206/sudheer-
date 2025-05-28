@@ -170,11 +170,11 @@ CLONE_HELP = """
 CLONE_HELP_2 = """
 <b><u>ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
-/clone – ᴄʟᴏɴᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ ғʀᴏᴍ @Jio_savan_music_bot.
+/clone – ᴄʟᴏɴᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ ғʀᴏᴍ @ZOYU_music_bot.
 
 
 <b><u>ᴀʟʟ ᴜsᴇʀs :</b></u>
-/mybot – ᴄʜᴇᴄᴋ ᴛʜᴇ ʙᴏᴛs ʏᴏᴜ’ᴠᴇ ᴄʟᴏɴᴇᴅ. [<a href="https://t.me/Jio_savan_music_bot">𝐊ɪ⃔ʀ֟֯፝ᴛɪ ✗ 𝐌ᴜ֟֯፝s⃔ɪᴄ</a>]
+/mybot – ᴄʜᴇᴄᴋ ᴛʜᴇ ʙᴏᴛs ʏᴏᴜ’ᴠᴇ ᴄʟᴏɴᴇᴅ. [<a href="https://t.me/ZOYU_music_bot">˹𝐙ᴏʏᴜ ꭙ 𝐌ᴜsɪᴄ˼</a>]
 /botinfo – ᴏɴʟʏ ғᴏʀ ʙᴏᴛ ᴏᴡɴᴇʀs ᴛᴏ ᴠɪᴇᴡ ʙᴏᴛ ɪɴғᴏ.
 
 <b><u>ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀs :</b></u>
